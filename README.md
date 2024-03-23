@@ -5,6 +5,6 @@ Quick Base64 decoder
 
 ## how 2
 
-'''plaintext
+'''shell
 ./rose_64.py [encoded_base64]
 '''
