@@ -3,6 +3,8 @@ Quick Base64 decoder
 
 ![Image](https://github.com/tximista64/rose_64/blob/main/images/rose_64.jpeg)
 
-##how 2
+## how 2
 
-'''plaintext  ./rose_64.py [encoded_base64]'''
+'''plaintext
+./rose_64.py [encoded_base64]
+'''
