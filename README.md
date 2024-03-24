@@ -6,5 +6,6 @@ Quick Base64 decoder
 ## how 2
 
 ```shell
-./rose_64.py [encoded_base64]
+./rose_64.py 
+[paste your encoded_base64]
 ```
